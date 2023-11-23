@@ -1,3 +1,3 @@
 number = int(input("Enter number: "))
 
-print(number % 2 == 0)
+print(f"Number is even: {number % 2 == 0}")
