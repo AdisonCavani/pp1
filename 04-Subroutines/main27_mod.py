@@ -1,0 +1,4 @@
+def f(card_number):
+  card_number = str(card_number)
+
+  return card_number[:2] + (len(card_number) - 4) * "*" + card_number[-2:]
