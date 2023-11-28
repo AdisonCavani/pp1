@@ -1,6 +1,5 @@
 from random import randint
 
-
 arr1 = [3, 7, 1, 0, 4]
 arr2 = [[2, 3], [7, 1], [0, 4]]
 arr3 = [7 for i in range(5)]
